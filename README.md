@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @karter741
-- 👀 I’m interested in Manwha/Manhua/Manga & Lighnovels
+- 👀 I’m interested in Manwha/Manhua/Manga & Lightnovels
 - 🌱 I’m currently learning C#, JavaScript React, TypeScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
